@@ -1,0 +1,411 @@
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.pdb
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.rsp
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.rsp
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.AppContext.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Console.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.rsp
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\WebGrease.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.pdb
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CopyComplete
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.pdb
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll.config
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.pdb
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe.config
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.rsp
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe.config
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.rsp
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Managed.Core.targets
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.AppContext.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Collections.Immutable.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Console.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Globalization.Calendars.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Http.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Sockets.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Reflection.Metadata.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.ValueTuple.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XmlDocument.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe.config
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.rsp
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe.config
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.Web.Infrastructure.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\WebGrease.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.pdb
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.AssemblyReference.cache
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CoreCompileInputs.cache
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CopyComplete
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.pdb
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.Mvc.dll
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.xml
+F:\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.Mvc.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll.config
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.pdb
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe.config
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.rsp
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe.config
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.rsp
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.AppContext.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Console.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Http.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.ValueTuple.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe.config
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.rsp
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.Mvc.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\WebGrease.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.Mvc.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.pdb
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.AssemblyReference.cache
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CoreCompileInputs.cache
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CopyComplete
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.dll
+C:\Users\hi\Downloads\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.pdb
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.pdb
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.pdb
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.rsp
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.rsp
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.AppContext.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Console.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.rsp
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.Mvc.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\WebGrease.dll
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.Mvc.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.pdb
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\VSLT_FastfoodTeam_Sinh (1)\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CopyComplete
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll.config
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\VSLT_FastfoodTeam.pdb
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.exe.config
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csc.rsp
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.exe.config
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\csi.rsp
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.AppContext.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Console.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Http.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Net.Sockets.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.ValueTuple.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.exe.config
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\vbc.rsp
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.Mvc.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\WebGrease.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\PagedList.Mvc.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Helpers.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Mvc.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Optimization.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.Razor.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Deployment.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\System.Web.WebPages.Razor.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Newtonsoft.Json.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Antlr3.Runtime.pdb
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.AssemblyReference.cache
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.csproj.CopyComplete
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.dll
+C:\Users\asus\Desktop\Đồ Án Lập Trình Web\VSLT_FastfoodTeam_LastTime\VSLT_FastfoodTeam\VSLT_FastfoodTeam\obj\Debug\VSLT_FastfoodTeam.pdb
